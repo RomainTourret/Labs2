@@ -1,2 +1,5 @@
 # Labs2
-DevOps Course : gotta find out what GitHub is all about
+Yeah so I decided to consider this as BS. But you know, 
+making changes to README so that I can see what it breaks (or not ?)
+
+CHANGECHANGECHANGECHANGE
